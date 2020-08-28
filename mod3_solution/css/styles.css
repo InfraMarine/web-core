@@ -1,0 +1,27 @@
+section {
+	height: 1000px;
+}
+
+.navbar {
+	background-color: DarkGreen;
+}
+
+.navbar a {
+	color: #e1dfe0;
+}
+
+.navbar .navbar-nav > li > a:hover, .navbar .navbar-nav > li > a:focus{
+	background-color: #097b1c;
+}
+
+button > .icon-bar {
+	background-color: White;
+}
+
+.container > section {
+	background-color: #ffeb9b;
+}
+
+h1 {
+	margin-bottom: 30px;
+}
